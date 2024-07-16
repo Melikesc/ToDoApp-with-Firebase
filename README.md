@@ -70,11 +70,7 @@ ToDoFirebase is an iOS application that allows you to create and manage a to-do 
 
 ## 🖼️ Screenshots
 
-![Screenshot 1](ss/login.png)
-![Screenshot 2](ss/register.png)
-![Screenshot 3](ss/list.png)
-![Screenshot 4](ss/newtodo.png)
-![Screenshot 5](ss/profile.png)
+![Screenshot 1](ss/login.jpg)
 
 ## 🤝 Contribution
 
